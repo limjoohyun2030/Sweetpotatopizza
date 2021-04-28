@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Lim Joohyun. I graduated from Dankook university with bachelor degree in Computer Science.
+
+I'm looking for Front-End job position now
+
+I'm have studied HTML, CSS, JS and currently learning JS deeply and React by Andrei in Udemy(https://www.udemy.com/user/andrei-neagoie/)
+
+
+### Language
+HTML⭐️⭐️⭐️⭐️
+CSS⭐️⭐️⭐️⭐️
+JS⭐️⭐️⭐️
+REACT⭐️⭐️
+
+English⭐️⭐️⭐️😄
 
 <!--
 **Sweetpotatopizza/Sweetpotatopizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
