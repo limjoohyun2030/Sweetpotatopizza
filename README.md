@@ -4,7 +4,7 @@ My name is Lim Joohyun. I graduated from Dankook university with bachelor degree
 
 I'm looking for Front-End job position now
 
-I'm have studied HTML, CSS, JS and currently learning JS deeply and React by Andrei in Udemy(https://www.udemy.com/user/andrei-neagoie/)
+I'm have studied HTML, CSS, JS and React
 
 
 ### Language
@@ -12,10 +12,6 @@ HTML⭐️⭐️⭐️⭐️
 CSS⭐️⭐️⭐️⭐️
 JS⭐️⭐️⭐️
 REACT⭐️⭐️
-
-English⭐️⭐️⭐️😄
-
-I'm currently making this project named 'Try This Food' https://sweetpotatopizza.github.io/try-this-food/
 
 <!--
 **Sweetpotatopizza/Sweetpotatopizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
