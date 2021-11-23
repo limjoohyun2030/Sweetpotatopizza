@@ -9,9 +9,9 @@ I'm have studied HTML, CSS, JS and React
 
 ### Language
 HTML⭐️⭐️⭐️⭐️
-CSS⭐️⭐️⭐️⭐️
-JS⭐️⭐️⭐️
-REACT⭐️⭐️
+CSS⭐️⭐️⭐️
+JS⭐️⭐️⭐️⭐️
+REACT⭐️⭐️⭐️⭐️
 
 <!--
 **Sweetpotatopizza/Sweetpotatopizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
