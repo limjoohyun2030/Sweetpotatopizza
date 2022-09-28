@@ -14,7 +14,7 @@ JavaScript
 React
 
 ###Learning
-Node.js
+Node.js TypeScript
 
 
 <!--
