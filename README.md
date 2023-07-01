@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Joohyun's%20Github!&fontSize=30)
 
+[![Joohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetpotatopizza&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Sweetpotatopizza/github-readme-stats)
+
+
 ## Hi there 👋
 
 My name is Lim Joohyun. I graduated from Dankook university with bachelor degree in Computer Science.
